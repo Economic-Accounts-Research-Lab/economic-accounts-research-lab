@@ -105,6 +105,21 @@
       "destination": "data/public/statement-layout.csv",
       "sha256": "d68a12f57e786d65ac7978c997eb5323014a5ee165835ab1c4ce999baa8dcda0",
       "source": "data/public/statement-layout.csv"
+    },
+    {
+      "destination": "publications/methodology/EARL-Methodology.pdf",
+      "sha256": "6f2b6e911e8648166191ad4de5334753b34d340cda79d801314b302afc85ae92",
+      "source": "docs/releases/methodology/EARL-Methodology.pdf"
+    },
+    {
+      "destination": "publications/technical-note-01/EARL-Historical-Industry-Reconciliation.pdf",
+      "sha256": "77c093e0bce830f59e528ff560b0c770784a8fe3c201f53a7be0ec290ae3839e",
+      "source": "docs/releases/technical-note-01/EARL-Historical-Industry-Reconciliation.pdf"
+    },
+    {
+      "destination": "publications/technical-note-01/EARL-Historical-Industry-Crosswalk.csv",
+      "sha256": "c20dc8e5fd400c5814fe0b89bbd50930930d8255c55984674466be01a68f6b9d",
+      "source": "docs/releases/technical-note-01/EARL-Historical-Industry-Crosswalk.csv"
     }
   ],
   "data_license": {
@@ -124,17 +139,14 @@
     "EXPORT-MANIFEST.json"
   ],
   "history_policy": "clean-root-history",
-  "line_endings": {
-    "attributes_file": ".gitattributes",
-    "policy": "lf"
-  },
   "publication_payloads": {
+    "methodology_paper_v1_0": "approved-publication",
     "public_source_code": "blocked-pending-public-source-review",
     "statistical_release": "blocked-pending-publication-signoff",
-    "technical_note_01": "blocked-pending-publication-signoff",
+    "technical_note_01": "approved-publication",
     "website": "blocked-pending-publication-signoff"
   },
   "repository_full_name": "AguilarMike/economic-accounts-research-lab",
-  "schema_version": 3,
-  "source_commit": "3523516f873fa4f801e366be3a825f96fbca749e"
+  "schema_version": 2,
+  "source_commit": "51f6747a03221f04ee411da254cd36cbda6853fd"
 }

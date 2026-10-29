@@ -18,13 +18,22 @@ The files in `data/public/` are the canonical public data artifacts. Provenance
 and vintage information should be read together with the corresponding
 metadata files.
 
+## Publications
+
+- [EARL Methodology — Version 1.0 (October 2026)](publications/methodology/EARL-Methodology.pdf)
+- [EARL Technical Note 01 — Version 1.0](publications/technical-note-01/EARL-Historical-Industry-Reconciliation.pdf)
+- [Technical Note 01 companion historical-industry crosswalk (CSV)](publications/technical-note-01/EARL-Historical-Industry-Crosswalk.csv)
+
+The data license below applies only to `data/public/**` and does not extend to
+EARL publications.
+
 ## Repository and website
 
 - Repository: https://github.com/AguilarMike/economic-accounts-research-lab
 - Canonical website: https://aguilarmike.github.io/economic-accounts-research-lab
 
 The website, Statistical Releases, Technical Notes, and any public source code
-are governed by separate publication gates and are added only after their
+remain governed by separate publication gates and are added only after their
 respective approval and validation procedures are complete.
 
 ## Data license
