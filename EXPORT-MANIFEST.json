@@ -139,6 +139,10 @@
     "EXPORT-MANIFEST.json"
   ],
   "history_policy": "clean-root-history",
+  "line_endings": {
+    "attributes_file": ".gitattributes",
+    "policy": "lf"
+  },
   "publication_payloads": {
     "methodology_paper_v1_0": "approved-publication",
     "public_source_code": "blocked-pending-public-source-review",
@@ -147,6 +151,6 @@
     "website": "blocked-pending-publication-signoff"
   },
   "repository_full_name": "AguilarMike/economic-accounts-research-lab",
-  "schema_version": 2,
-  "source_commit": "51f6747a03221f04ee411da254cd36cbda6853fd"
+  "schema_version": 3,
+  "source_commit": "0f82ad77aa0fbd14d64f675ba8078abd90590ac4"
 }
