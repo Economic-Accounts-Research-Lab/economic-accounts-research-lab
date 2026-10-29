@@ -1,0 +1,140 @@
+{
+  "citation": {
+    "author": "Economic Accounts Research Lab (EARL)",
+    "cff_version": "1.2.0",
+    "title": "Economic Accounts Research Lab",
+    "type": "dataset"
+  },
+  "copied_files": [
+    {
+      "destination": "config/project-identity.json",
+      "sha256": "22adc9ef3c92ec3137a1d3d53bbcb8d275c3eee625d7c2dd2dbf39072c2bfa10",
+      "source": "config/project-identity.json"
+    },
+    {
+      "destination": "config/project-urls.json",
+      "sha256": "b27a9647060e40bb4c4f26d7c64bd06113bb8fa81255c28817b6cb93c1b305e0",
+      "source": "config/project-urls.json"
+    },
+    {
+      "destination": "data/public/build-metadata.csv",
+      "sha256": "a2b3d87781cdc37fc0a031aaba4edca180f31455598fcf3e199f5abccc5c15ff",
+      "source": "data/public/build-metadata.csv"
+    },
+    {
+      "destination": "data/public/cis-annual-meta.csv",
+      "sha256": "db8efec2bbe7ece9196834f2943ae36f6f6b91b987a2e9c92cba84ccdc093785",
+      "source": "data/public/cis-annual-meta.csv"
+    },
+    {
+      "destination": "data/public/cis-annual.csv",
+      "sha256": "2a6eba5503c4d8aa2dec6046b7d05a3b7edb57304437d3def78d2fb3b2da7b02",
+      "source": "data/public/cis-annual.csv"
+    },
+    {
+      "destination": "data/public/cis-quarterly-meta.csv",
+      "sha256": "f559c8b5007985860e3dced833878f5899141955befa721216dfd06caebe889a",
+      "source": "data/public/cis-quarterly-meta.csv"
+    },
+    {
+      "destination": "data/public/cis-quarterly.csv",
+      "sha256": "ce1d205670053d4369902a26feec4b30c2622d3b02e870f471207003c507183f",
+      "source": "data/public/cis-quarterly.csv"
+    },
+    {
+      "destination": "data/public/entity-metadata.csv",
+      "sha256": "1f9fb80abf74512c5c1f1741147c804a39111f5c9a2d3fad91393a37f80bad09",
+      "source": "data/public/entity-metadata.csv"
+    },
+    {
+      "destination": "data/public/iis-annual-meta.csv",
+      "sha256": "c9a1708c420d9c16e0e54a3c735f30c3773496f80c1c4a3b37df5d34ce651c73",
+      "source": "data/public/iis-annual-meta.csv"
+    },
+    {
+      "destination": "data/public/iis-annual.csv",
+      "sha256": "f8724d1e0559b6ed9b69623573eb3a69f7f3b8fd13c3ed7015a12a923230dc9f",
+      "source": "data/public/iis-annual.csv"
+    },
+    {
+      "destination": "data/public/iis-quarterly-meta.csv",
+      "sha256": "137b8a223845bc28b55bffbe30430661eb6c9289bca81806f7cc97b9b2abd8f3",
+      "source": "data/public/iis-quarterly-meta.csv"
+    },
+    {
+      "destination": "data/public/iis-quarterly.csv",
+      "sha256": "f6c0657eadb0f11c9507ca6fad86be91d6628e4ae4dff12774f5946478122a00",
+      "source": "data/public/iis-quarterly.csv"
+    },
+    {
+      "destination": "data/public/nis-annual-meta.csv",
+      "sha256": "058946be3076a09d3c363591ced18c27f73171965a3e49fe9925a87ddd0906b8",
+      "source": "data/public/nis-annual-meta.csv"
+    },
+    {
+      "destination": "data/public/nis-annual.csv",
+      "sha256": "42f1216efcb78d249dffd4775fd52c942518d03b381a9e16b28513339cd0f712",
+      "source": "data/public/nis-annual.csv"
+    },
+    {
+      "destination": "data/public/nis-quarterly-meta.csv",
+      "sha256": "13a463af8e08122b817681b533f07f4575fb1496ee5297bdc20f7a1285d870d5",
+      "source": "data/public/nis-quarterly-meta.csv"
+    },
+    {
+      "destination": "data/public/nis-quarterly.csv",
+      "sha256": "83acaa9f32c04128f939154509a6535e4c1d99dc21bb1424679545bc409dae4d",
+      "source": "data/public/nis-quarterly.csv"
+    },
+    {
+      "destination": "data/public/public-schema.csv",
+      "sha256": "287f390d7f34a48b5126826a8d34d706651cc4a8b33713f22ee40e916cc4bd4f",
+      "source": "data/public/public-schema.csv"
+    },
+    {
+      "destination": "data/public/series-metadata.csv",
+      "sha256": "18e297106ef4fca75f400f448fe0094d4401f6a0e4351df1baf411b82d9c7bc7",
+      "source": "data/public/series-metadata.csv"
+    },
+    {
+      "destination": "data/public/source-vintages.csv",
+      "sha256": "82b949ba5885b8f7ee2a013c62b1c82afb1e67cde533678e8e23aa1edc36aa2e",
+      "source": "data/public/source-vintages.csv"
+    },
+    {
+      "destination": "data/public/statement-layout.csv",
+      "sha256": "d68a12f57e786d65ac7978c997eb5323014a5ee165835ab1c4ce999baa8dcda0",
+      "source": "data/public/statement-layout.csv"
+    }
+  ],
+  "data_license": {
+    "identifier": "CC-BY-4.0",
+    "licensor": "Economic Accounts Research Lab (EARL)",
+    "name": "Creative Commons Attribution 4.0 International",
+    "scope": "data/public/**",
+    "url": "https://creativecommons.org/licenses/by/4.0/"
+  },
+  "default_branch": "main",
+  "export_state": "root-ready",
+  "generated_files": [
+    ".gitattributes",
+    "README.md",
+    "LICENSE-DATA.md",
+    "CITATION.cff",
+    "EXPORT-MANIFEST.json"
+  ],
+  "history_policy": "clean-root-history",
+  "line_endings": {
+    "attributes_file": ".gitattributes",
+    "policy": "lf"
+  },
+  "publication_payloads": {
+    "public_source_code": "blocked-pending-public-source-review",
+    "statistical_release": "blocked-pending-publication-signoff",
+    "technical_note_01": "blocked-pending-publication-signoff",
+    "website": "blocked-pending-publication-signoff"
+  },
+  "repository_full_name": "AguilarMike/economic-accounts-research-lab",
+  "schema_version": 3,
+  "source_commit": "3523516f873fa4f801e366be3a825f96fbca749e"
+}

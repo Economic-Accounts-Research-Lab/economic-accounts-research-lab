@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use the EARL public data package, please cite it using these metadata."
+title: "Economic Accounts Research Lab"
+type: dataset
+authors:
+  - name: "Economic Accounts Research Lab (EARL)"
+repository: "https://github.com/AguilarMike/economic-accounts-research-lab"
+url: "https://aguilarmike.github.io/economic-accounts-research-lab"
+license: CC-BY-4.0
